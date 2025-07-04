@@ -8,8 +8,18 @@
   },
   "detail": {
     "contributors": [],
-    "diagrams": [],
-    "diagramTop": 7,
+    "diagrams": [
+      {
+        "id": 7,
+        "title": "New CIA diagram",
+        "diagramType": "CIA",
+        "placeholder": "New CIA diagram description",
+        "thumbnail": "./public/content/images/thumbnail.cia.jpg",
+        "version": "2.4.1",
+        "cells": []
+      }
+    ],
+    "diagramTop": 8,
     "reviewer": "LiU",
     "threatTop": 0
   }
